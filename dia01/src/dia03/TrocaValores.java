@@ -22,7 +22,9 @@ public class TrocaValores {
 		System.out.println("Insira aqui como devo te chamar? ");
 		nome2 = entrada.next();
 		
-		System.out.println("Seja bem vindo " + nome1 + " " + nome2);
+		System.out.println(nome1 + " " + nome2);
+		System.out.println("Seja bem vindo " );
+		
 	}
 
 }
