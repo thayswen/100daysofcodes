@@ -115,5 +115,6 @@
 | 2 | Dia 2 - Crie um programa que exiba a tabuada de um número informado pelo usuário. |  |  
 | 3 | Dia 3 - Crie um programa que troque os valores que estão armazenados nas variáveis nome1 e nome2. A variável nome1 armazenara o valor “mestre do universo”. A variável nome2 receberá um valor informado pelo usuário. Exiba a junção da variável nome1 com o valor da variável nome2. |  |  
 | 4 | <a href="https://github.com/thayswen/crudJava/tree/master/cruds/">CRUD</a> --> Primeiro método feito de uma agenda para salvar.|
+| 5 | <a href="https://github.com/thayswen/crudJava/tree/master/cruds/">CRUD</a> --> Método criado para listar os contatos já salvos.|
 
  🦄 ThaySwen !
